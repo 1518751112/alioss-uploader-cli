@@ -9,7 +9,7 @@ aliossUploader alioss
 
 
 ```
-npm i -g @1518/alioss-uploader-cli
+npm i -g @tg1518/alioss-uploader-cli
 ```
 
 make file '.aliossrc'
