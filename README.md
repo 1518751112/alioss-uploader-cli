@@ -1,7 +1,15 @@
 aliyun oss upload cli
 
+**增加指定配置文件名称**
+* 注意：配置文件名称为'.aliossrc' 取名称：alioss
+* 默认配置文件名称为'.aliossrc'
 ```
-npm i -g alioss-uploader-cli
+aliossUploader alioss
+```
+
+
+```
+npm i -g @1518/alioss-uploader-cli
 ```
 
 make file '.aliossrc'

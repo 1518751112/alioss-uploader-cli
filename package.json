@@ -1,6 +1,6 @@
 {
-  "name": "alioss-uploader-cli",
-  "version": "1.0.3",
+  "name": "@tg1518/alioss-uploader-cli",
+  "version": "1.0.4",
   "description": "aliyun oss upload cli",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fred-feng/alioss-uploader.git"
+    "url": "git+https://github.com/1518751112/alioss-uploader-cli.git"
   },
   "keywords": [
     "cli",
@@ -22,9 +22,9 @@
   "author": "fred.feng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fred-feng/alioss-uploader/issues"
+    "url": "https://github.com/1518751112/alioss-uploader-cli/issues"
   },
-  "homepage": "https://github.com/fred-feng/alioss-uploader#readme",
+  "homepage": "https://github.com/1518751112/alioss-uploader-cli#readme",
   "dependencies": {
     "ali-oss": "^6.0.1",
     "co": "^4.6.0",

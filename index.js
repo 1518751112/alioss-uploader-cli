@@ -81,7 +81,10 @@ function aesDecrypt(encrypted, key) {
 	return decrypted;
 }
 
-const config = rc('alioss', {
+//获取环境配置
+const [name] = process.argv.slice(2)
+
+const config = rc(name||'alioss', {
 	accessKeyId: null,
 	accessKeySecret: null,
 	region: null,

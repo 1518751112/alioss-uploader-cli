@@ -4,3 +4,4 @@
 /.aliossrc
 /.aliossKeyrc
 /dist/
+node_modules
